@@ -1,0 +1,17 @@
+{
+	"values": {
+		"for_real": false,
+		"numbers": 20,
+		"more_values": {
+			"phrase": "wow",
+			"even_more_values": {
+				"amazement": "The bracket highlighting goes deep.",
+				"we have to go deeper": {
+					"almost there": {
+						"brackets": "We've gone too far."
+					}
+				}
+			}
+		}
+	}
+}
