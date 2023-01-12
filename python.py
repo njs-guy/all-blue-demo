@@ -6,7 +6,7 @@ class Rectangle:
 		self.height = height
 		self.width = width
 
-		if (width == height):
+		if (self.width == self.height):
 			self.square = True
 		else:
 			self.square = False
