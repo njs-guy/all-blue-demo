@@ -1,6 +1,6 @@
 # All Blue demo
 
-This a demo to view different file types with All Blue.
+This a demo to view different file types with [All Blue](https://github.com/njshockey/all-blue-theme). (Or any color theme, really.)
 
 ## Viewing
 
@@ -17,3 +17,7 @@ To view this in VS Code, download this repo. Either as a zip file or with `git c
 -   [ ] Vue
 -   [ ] Svelte
 -   [x] YAML
+-   [ ] XML
+-   [ ] Java
+-   [ ] Bash
+-   [ ] Editor Config
