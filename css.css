@@ -2,6 +2,10 @@ html {
 	background-color: white;
 }
 
+button:hover {
+	background-color: red;
+}
+
 .class1 {
 	margin: 10px;
 }
