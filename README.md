@@ -13,9 +13,9 @@ To view this in VS Code, download this repo. Either as a zip file or with `git c
 -   [ ] Csharp
 -   [ ] C/C++
 -   [x] Rust
--   [ ] React TSX
--   [ ] Vue
--   [ ] Svelte
+-   [x] React TSX
+-   [x] Vue
+-   [x] Svelte
 -   [x] YAML
 -   [ ] XML
 -   [ ] Java
