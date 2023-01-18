@@ -2,7 +2,8 @@
 
 ## Basic Syntax
 
-_These_ are the elements outlined in **John Gruber’s** original design document. All **_Markdown_** applications support these elements.
+_These_ are the elements outlined in **John Gruber’s** original design document.
+All **_Markdown_** applications support these elements.
 
 ### Headings
 
@@ -33,9 +34,9 @@ _More like belongs in the trash_
 
 ### Unordered List
 
--   Pet cats
--   Pet dogs
--   Pet goldfish
+- Pet cats
+- Pet dogs
+- Pet goldfish
 
 ### Code
 
@@ -55,7 +56,8 @@ _More like belongs in the trash_
 
 ## Extended Syntax
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+These elements extend the basic syntax by adding additional features. Not all Markdown
+applications support these elements.
 
 ### Table
 
@@ -93,9 +95,9 @@ term
 
 ### Task List
 
--   [x] Take a shower
--   [ ] Learn something new
--   [ ] Actually finish something for once
+- [x] Take a shower
+- [ ] Learn something new
+- [ ] Actually finish something for once
 
 ### Emoji
 

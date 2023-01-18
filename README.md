@@ -1,10 +1,14 @@
 # All Blue demo
 
-This a demo to view different file types with [All Blue](https://github.com/njshockey/all-blue-theme). (Or any color theme, really.)
+This a demo to view different file types with [All Blue](https://github.com/njshockey/all-blue-theme).
+(Or any color theme, really.)
 
 ## Viewing
 
-To view this in VS Code, download this repo. Either as a zip file or with `git clone https://github.com/njshockey/all-blue-demo.git`. From there, you can open the root folder in VS Code and view the syntax highlighting for the theme.
+To view this in VS Code, download this repo.
+Either as a zip file or with `git clone https://github.com/njshockey/all-blue-demo.git`.
+From there, you can open the root folder in VS Code
+and view the syntax highlighting for the theme.
 
 ## Todo
 
