@@ -8,16 +8,16 @@ To view this in VS Code, download this repo. Either as a zip file or with `git c
 
 ## Todo
 
--   [x] JS/TS
--   [x] Python
--   [ ] Csharp
--   [ ] C/C++
--   [x] Rust
--   [x] React TSX
--   [x] Vue
--   [x] Svelte
--   [x] YAML
--   [ ] XML
--   [ ] Java
--   [ ] Bash
--   [ ] Editor Config
+- [x] JS/TS
+- [x] Python
+- [ ] Csharp
+- [ ] C/C++
+- [x] Rust
+- [x] React TSX
+- [x] Vue
+- [x] Svelte
+- [x] YAML
+- [ ] XML
+- [ ] Java
+- [ ] Bash
+- [ ] Editor Config
